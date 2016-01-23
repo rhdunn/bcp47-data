@@ -12,6 +12,17 @@ sets derived from these data files.
 | [language-subtag-registry](language-subtag-registry) | 2016-01-10 | The [IANA Language Subtag Registry](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). |
 | [accents](accents) | 2014-10-08 | Private use BCP47/RFC4646/RFC5646 extensions for describing accents and dialects. |
 
+Additionally, the [relationships](relationships) directory contains data that
+relates language codes together according to which language family they belong.
+These files have line comments that start with the `#` character. The other
+lines have the following format:
+
+	TYPE:CODE:PARENT
+
+where `TYPE` can be:
+
+*  `h` for hierarchical relationships of the ISO 639-5 language family subtags.
+
 ## License
 
 The IANA Language Subtag Registry is part of the BCP 47/RFC 5646 standard.
