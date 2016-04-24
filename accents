@@ -1,6 +1,6 @@
-File-Date: 2014-10-08
+File-Date: 2016-04-24
 Author: Reece H. Dunn
-Copyright: Copyright (C) 2013-2014 Reece H. Dunn
+Copyright: Copyright (C) 2013-2016 Reece H. Dunn
 License: CC-BY-SA 3.0
 Description: Private use BCP47/RFC4646/RFC5646 extensions for describing accents and dialects.
 %%
@@ -257,8 +257,10 @@ Type: private
 Subtag: gbcken
 Added: 2014-10-08
 Description: Kent
-Comments: Ceremonial county of England
+Description: Kentish
+Comments: Ceremonial county of England, or the old Anglo-Saxon Kingdom of Kent in England
 Prefix: en-GB
+Prefix: ang
 %%
 Type: private
 Subtag: gbclan
@@ -449,6 +451,14 @@ Comments: Dialect local to Sunderland, England.
 Prefix: en-GB
 %%
 Type: private
+Subtag: mercia
+Added: 2016-04-24
+Description: Mercia
+Description: Mercian
+Comments: The old Anglian Kingdom of Mercia in England
+Prefix: ang
+%%
+Type: private
 Subtag: midatl
 Added: 2014-09-25
 Description: Mid-Atlantic USA Division
@@ -465,6 +475,15 @@ Subtag: neweng
 Added: 2014-09-25
 Description: New England
 Prefix: en-US
+%%
+Type: private
+Subtag: nhumber
+Added: 2016-04-24
+Description: Northumbria
+Description: Northumbrian
+Comments: The old Anglian Kingdom of Northumbria in England and Scotland
+Prefix: en-GB
+Prefix: ang
 %%
 Type: private
 Subtag: north
@@ -532,6 +551,14 @@ Subtag: wales
 Added: 2013-03-31
 Description: Welsh English
 Prefix: en-GB
+%%
+Type: private
+Subtag: wessex
+Added: 2016-04-24
+Description: Wessex
+Description: West Saxon
+Comments: The old Anglo-Saxon Kingdom of Wessex in England
+Prefix: ang
 %%
 Type: private
 Subtag: west
