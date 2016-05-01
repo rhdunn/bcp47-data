@@ -2,7 +2,7 @@ File-Date: 2016-04-24
 Author: Reece H. Dunn
 Copyright: Copyright (C) 2013-2016 Reece H. Dunn
 License: CC-BY-SA 3.0
-Description: Private use BCP47/RFC4646/RFC5646 extensions for describing accents and dialects.
+Description: Private use BCP 47 extensions for describing accents, dialects and language classifications.
 %%
 Type: private
 Subtag: arch
