@@ -17,11 +17,14 @@ relates language codes together according to which language family they belong.
 These files have line comments that start with the `#` character. The other
 lines have the following format:
 
-	TYPE:CODE:PARENT
+	TYPE:LANGUAGE:PARENT
 
 where `TYPE` can be:
 
-*  `h` for hierarchical relationships of the ISO 639-5 language family subtags.
+| `TYPE` | Description |
+|--------|-------------|
+| `h`    | Hierarchical relationships of the language families. |
+| `a`    | `PARENT` is the ancestor of `LANGUAGE`. |
 
 ## License
 
