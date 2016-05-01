@@ -95,6 +95,12 @@ Description: Conservative
 Added: 2014-10-23
 %%
 Type: private
+Subtag: early
+Description: Early
+Comments: The early period of a language's development.
+Added: 2016-01-01
+%%
+Type: private
 Subtag: east
 Added: 2014-09-25
 Description: Eastern Region
@@ -469,6 +475,18 @@ Subtag: midatl
 Added: 2014-09-25
 Description: Mid-Atlantic USA Division
 Prefix: en-US
+%%
+Type: private
+Subtag: middle
+Description: Middle
+Comments: The middle period of a language's development.
+Added: 2016-01-01
+%%
+Type: private
+Subtag: modern
+Description: Modern
+Comments: The modern period of a language's development.
+Added: 2016-01-01
 %%
 Type: private
 Subtag: mountain
