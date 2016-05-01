@@ -1,8 +1,14 @@
-File-Date: 2016-04-24
+File-Date: 2016-05-01
 Author: Reece H. Dunn
 Copyright: Copyright (C) 2013-2016 Reece H. Dunn
 License: CC-BY-SA 3.0
 Description: Private use BCP 47 extensions for describing accents, dialects and language classifications.
+%%
+Type: private
+Subtag: angfr
+Description: Anglo-Frisian languages
+Added: 2016-05-01
+Prefix: gmw
 %%
 Type: private
 Subtag: arch
