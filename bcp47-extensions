@@ -124,6 +124,12 @@ Added: 2018-02-24
 Description: Conlang X-SAMPA phonetic transcription
 %%
 Type: private
+Subtag: fonkirsh
+Added: 2018-02-24
+Description: Kirshenbaum phonetic transcription
+Description: ASCII-IPA phonetic transcription
+%%
+Type: private
 Subtag: gbcbds
 Added: 2014-10-08
 Description: Bedfordshire
