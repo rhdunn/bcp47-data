@@ -9,7 +9,7 @@ sets derived from these data files.
 
 | File | Modified | Description |
 |------|----------|-------------|
-| [language-subtag-registry](language-subtag-registry) | 2017-08-15 | The [IANA Language Subtag Registry](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). |
+| [language-subtag-registry](language-subtag-registry) | 2018-01-25 | The [IANA Language Subtag Registry](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). |
 | [bcp47-extensions](bcp47-extensions) | 2016-05-01 | Private use BCP 47 extensions for describing accents, dialects and language classifications. |
 
 Additionally, the [relationships](relationships) directory contains data that
