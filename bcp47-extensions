@@ -1,6 +1,6 @@
-File-Date: 2016-05-01
+File-Date: 2018-02-23
 Author: Reece H. Dunn
-Copyright: Copyright (C) 2013-2016 Reece H. Dunn
+Copyright: Copyright (C) 2013-2018 Reece H. Dunn
 License: CC-BY-SA 3.0
 Description: Private use BCP 47 extensions for describing accents, dialects and language classifications.
 %%
@@ -117,6 +117,11 @@ Added: 2014-03-23
 Description: Estuary English
 Comments: Generalised dialect found along the River Thames and its estuary.
 Prefix: en-GB
+%%
+Type: private
+Subtag: foncxs
+Added: 2018-02-24
+Description: Conlang X-SAMPA phonetic transcription
 %%
 Type: private
 Subtag: gbcbds
