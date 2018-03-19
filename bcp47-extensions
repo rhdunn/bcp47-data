@@ -1,4 +1,4 @@
-File-Date: 2018-03-17
+File-Date: 2018-03-19
 Author: Reece H. Dunn
 Copyright: Copyright (C) 2013-2018 Reece H. Dunn
 License: CC-BY-SA 3.0
@@ -130,8 +130,8 @@ Description: Kirshenbaum phonetic transcription
 Description: ASCII-IPA phonetic transcription
 %%
 Type: private
-Subtag: fonzsampa
-Added: 2018-03-17
+Subtag: fonzsamp
+Added: 2018-03-19
 Description: Z-SAMPA phonetic transcription
 %%
 Type: private
