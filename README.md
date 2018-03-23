@@ -1,7 +1,14 @@
 # BCP 47 Data
 
+- [Data Sets](#data-sets)
+- [License Information](#license-information)
+
+----------
+
 This project is a collection of data files useful for working with BCP 47
 language tags.
+
+## Data Sets
 
 The IANA Language Subtag Registry and other data sets are mirrored here to
 provide stable versions for specific builds of projects and generated data
@@ -26,7 +33,7 @@ where `TYPE` can be:
 | `h`    | Hierarchical relationships of the language families. |
 | `a`    | `PARENT` is the ancestor of `LANGUAGE`. |
 
-## License
+## License Information
 
 The IANA Language Subtag Registry is part of the BCP 47/RFC 5646 standard.
 
