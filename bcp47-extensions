@@ -1,4 +1,4 @@
-File-Date: 2018-03-19
+File-Date: 2018-03-23
 Author: Reece H. Dunn
 Copyright: Copyright (C) 2013-2018 Reece H. Dunn
 License: CC-BY-SA 3.0
@@ -119,15 +119,80 @@ Comments: Generalised dialect found along the River Thames and its estuary.
 Prefix: en-GB
 %%
 Type: private
+Subtag: fonarpa
+Added: 2018-03-23
+Description: ARPAbet language-specific phoneme set for American/British English.
+Description: CMUdict phoneme set for American English.
+Prefix: en
+Prefix: en-GB
+Prefix: en-US
+%%
+Type: private
+Subtag: foncepsl
+Added: 2018-03-23
+Description: Cepstral Text-to-Speech lexicon language-specific phoneme sets.
+Prefix: de
+Prefix: en-GB
+Prefix: en-US
+Prefix: es-419
+Prefix: fr-CA
+Prefix: it
+%%
+Type: private
 Subtag: foncxs
 Added: 2018-02-24
 Description: Conlang X-SAMPA phonetic transcription
+%%
+Type: private
+Subtag: fonespk
+Added: 2018-03-23
+Description: eSpeak Text-to-Speech language-specific phoneme sets.
+Description: eSpeak NG Text-to-Speech language-specific phoneme sets.
 %%
 Type: private
 Subtag: fonkirsh
 Added: 2018-02-24
 Description: Kirshenbaum phonetic transcription
 Description: ASCII-IPA phonetic transcription
+%%
+Type: private
+Subtag: fonsamp
+Added: 2018-03-23
+Description: SAMPA language-specific phoneme sets.
+Prefix: ar
+Prefix: bg
+Prefix: cs
+Prefix: da
+Prefix: de
+Prefix: el
+Prefix: en
+Prefix: en-GB
+Prefix: en-US
+Prefix: es
+Prefix: et
+Prefix: fr
+Prefix: he
+Prefix: hr
+Prefix: hu
+Prefix: it
+Prefix: nl
+Prefix: no
+Prefix: pl
+Prefix: pt
+Prefix: ro
+Prefix: ru
+Prefix: sl
+Prefix: sv
+Prefix: th
+Prefix: tr
+Prefix: yue
+%%
+Type: private
+Subtag: fontimit
+Added: 2018-03-23
+Description: An American English phoneme set for the TIMIT database.
+Comments: See the "Phone Recognition on the TIMIT Database" PDF for a description of the phoneme set.
+Prefix: en-US
 %%
 Type: private
 Subtag: fonzsamp
