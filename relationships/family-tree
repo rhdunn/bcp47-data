@@ -1,6 +1,6 @@
 # Language History (Old - Middle - Modern) and Family Tree
 #
-# Copyright (C) 2016 Reece H. Dunn
+# Copyright (C) 2016-2018 Reece H. Dunn
 #
 # License: CC-BY-SA 3.0
 #
@@ -34,21 +34,9 @@ a:mn:cmg
 a:nds:gml
 a:nei:htx
 a:nl:dum
-f:nrc:cel
-f:obt:cel
-f:oco:cel
 a:okm:oko
-f:owl:cel
 a:pal:peo
-f:pgl:cel
 a:sga:pgl
 a:wlm:owl
 a:xbm:obt
-f:xcb:cel
-f:xce:cel
-f:xcg:cel
-f:xga:cel
-f:xlp:cel
-f:xpi:cel
-f:xtg:cel
 a:zh:ltc
