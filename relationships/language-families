@@ -8,13 +8,20 @@
 # bcp47-extensions file prefixed with 'x-'.
 #
 # West Germanic languages (https://en.wikipedia.org/wiki/West_Germanic_languages)
+#
 f:ang:x-angfr
 f:frk:gmw
 f:goh:gmw
 f:ofs:x-angfr
 f:osx:gmw
 h:x-angfr:gmw
+#
+# North Germanic languages (https://en.wikipedia.org/wiki/North_Germanic_languages)
+#
+f:non:gmq
+#
 # Celtic languages (https://en.wikipedia.org/wiki/Celtic_languages)
+#
 f:nrc:cel
 f:oco:x-britn
 f:owl:x-britn

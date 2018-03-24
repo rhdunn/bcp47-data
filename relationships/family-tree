@@ -83,10 +83,21 @@ a:yi:gmh
 a:yol:enm
 d:zea:nl
 #
+# North Germanic languages (https://en.wikipedia.org/wiki/North_Germanic_languages)
+#
+a:da:non
+a:fo:non
+a:is:non
+d:jut:da
+a:no:non
+a:nrn:non
+a:ovd:non
+a:sv:non
+#
 # Celtic languages (https://en.wikipedia.org/wiki/Celtic_languages)
 #
 # NOTE: Old Cornish and Old Breton [800-1100] written sources are basically
 # identical, with some linguists suggesting the differences are geographical.
 # As such, derive Old Breton from Old Cornish (Cornish settlers in Brittany).
 # (see https://en.wikipedia.org/wiki/Southwestern_Brittonic_languages)
-f:obt:oco
+a:obt:oco
