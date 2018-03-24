@@ -14,3 +14,16 @@ f:goh:gmw
 f:ofs:x-angfr
 f:osx:gmw
 h:x-angfr:gmw
+# Celtic languages (https://en.wikipedia.org/wiki/Celtic_languages)
+f:nrc:cel
+f:oco:x-britn
+f:owl:x-britn
+f:pgl:cel
+f:x-britn:cel
+f:xcb:x-britn
+f:xce:cel
+f:xcg:cel
+f:xga:cel
+f:xlp:cel
+f:xpi:x-britn
+f:xtg:cel

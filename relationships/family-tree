@@ -5,6 +5,7 @@
 # License: CC-BY-SA 3.0
 #
 # Language history (Old - Middle - Modern) described in language-subtag-registry:
+#
 a:axm:xcl
 a:br:xbm
 a:cmg:xng
@@ -41,7 +42,9 @@ a:sga:pgl
 a:wlm:owl
 a:xbm:obt
 a:zh:ltc
+#
 # West Germanic languages (https://en.wikipedia.org/wiki/West_Germanic_languages)
+#
 d:act:nds
 a:af:dum
 d:bar:de
@@ -79,3 +82,11 @@ d:wep:nds
 a:yi:gmh
 a:yol:enm
 d:zea:nl
+#
+# Celtic languages (https://en.wikipedia.org/wiki/Celtic_languages)
+#
+# NOTE: Old Cornish and Old Breton [800-1100] written sources are basically
+# identical, with some linguists suggesting the differences are geographical.
+# As such, derive Old Breton from Old Cornish (Cornish settlers in Brittany).
+# (see https://en.wikipedia.org/wiki/Southwestern_Brittonic_languages)
+f:obt:oco

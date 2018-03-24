@@ -1,4 +1,4 @@
-File-Date: 2018-03-23
+File-Date: 2018-03-24
 Author: Reece H. Dunn
 Copyright: Copyright (C) 2013-2018 Reece H. Dunn
 License: CC-BY-SA 3.0
@@ -14,6 +14,12 @@ Type: private
 Subtag: arch
 Description: Archaic
 Added: 2014-10-23
+%%
+Type: private
+Subtag: britn
+Description: Brittonic languages
+Description: Brythonic languages
+Added: 2018-03-24
 %%
 Type: private
 Subtag: brummie
