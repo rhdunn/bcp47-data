@@ -17,7 +17,7 @@ sets derived from these data files.
 | File | Modified | Description |
 |------|----------|-------------|
 | [language-subtag-registry](language-subtag-registry) | 2018-03-20 | The [IANA Language Subtag Registry](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). |
-| [bcp47-extensions](bcp47-extensions) | 2018-03-23 | Private use BCP 47 extensions for describing accents, dialects and language classifications. |
+| [bcp47-extensions](bcp47-extensions) | 2018-03-23 | Private use BCP 47 extensions for describing accents, dialects, and language classifications. |
 
 Additionally, the [relationships](relationships) directory contains data that
 relates language codes together according to which language family they belong.
@@ -30,8 +30,11 @@ where `TYPE` can be:
 
 | `TYPE` | Description |
 |--------|-------------|
-| `h`    | Hierarchical relationships of the language families. |
 | `a`    | `PARENT` is the ancestor of `LANGUAGE`. |
+| `d`    | `LANGUAGE` is a dialect of `PARENT`. |
+| `f`    | `PARENT` is the language family of `LANGUAGE`. |
+| `h`    | Hierarchical relationships of the language families. |
+| `i`    | `LANGUAGE` is influenced by `PARENT`. |
 
 ## License Information
 
