@@ -20,6 +20,11 @@ h:x-angfr:gmw
 #
 f:non:gmq
 #
+# East Germanic languages (https://en.wikipedia.org/wiki/East_Germanic_languages)
+#
+f:got:gme
+f:xvn:gme
+#
 # Celtic languages (https://en.wikipedia.org/wiki/Celtic_languages)
 #
 f:nrc:cel
