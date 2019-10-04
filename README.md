@@ -19,22 +19,7 @@ sets derived from these data files.
 | [language-subtag-registry](language-subtag-registry) | 2019-04-03 | The [IANA Language Subtag Registry](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry). |
 | [bcp47-extensions](bcp47-extensions) | 2018-03-24 | Private use BCP 47 extensions for describing accents, dialects, and language classifications. |
 
-Additionally, the [relationships](relationships) directory contains data that
-relates language codes together according to which language family they belong.
-These files have line comments that start with the `#` character. The other
-lines have the following format:
-
-	TYPE:LANGUAGE:PARENT
-
-where `TYPE` can be:
-
-| `TYPE` | Description |
-|--------|-------------|
-| `a`    | `PARENT` is the ancestor of `LANGUAGE`. |
-| `d`    | `LANGUAGE` is a dialect of `PARENT`. |
-| `f`    | `PARENT` is the language family of `LANGUAGE`. |
-| `h`    | Hierarchical relationships of the language families. |
-| `i`    | `LANGUAGE` is influenced by `PARENT`. |
+The [iso636-5](iso636-5) file provides the hierarchical relationships between the language families. It uses `#` for line comments and `h:LANGUAGE:PARENT` lines for the hierarchical relationships.
 
 ## License Information
 
